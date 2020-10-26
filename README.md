@@ -51,4 +51,8 @@ https://github.com/ingafter60/tinyhouse-mern
         new file:   src/listings.ts	
 
     01.11. Creating GET and POST Express routes
+        modified:   README.md
+        modified:   src/index.ts
+
 	01.12. Module Summary
+	PASS
