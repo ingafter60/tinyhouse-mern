@@ -16,16 +16,21 @@
         package-lock.json
         package.json
         src/
-
 	01.5. Automatic Reloading with Nodemon
 		λ npm install nodemon -D
 		λ npm start
         modified:   README.md
         modified:   package-lock.json
         modified:   package.json
-        
 	01.6. Introducing TypeScript
+		PASS
 	01.7. Adding TypeScript to our Server
+        modified:   package-lock.json
+        modified:   package.json
+        deleted:    src/index.js
+        new file:   src/index.ts
+        new file:   tsconfig.json
+        	
 	01.8. Compiling our TypeScript project
 	01.9. Linting with ESLint
 	01.10. Introducing mock listings
