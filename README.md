@@ -43,11 +43,12 @@ https://github.com/ingafter60/tinyhouse-mern
         new file:   build/index.js
         modified:   package.json
 
-
-
 	01.9. Linting with ESLint
+	PASS
+
 	01.10. Introducing mock listings
-	01.11. Creating GET and POST Express routes
+        modified:   README.md
+        new file:   src/listings.ts	
+
+    01.11. Creating GET and POST Express routes
 	01.12. Module Summary
-
-
